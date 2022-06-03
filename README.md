@@ -1,4 +1,4 @@
-# rajpoudyal/rajpoudyal.github.io
+# https://rajpoudyal.github.io
 
 ## Usage
 
