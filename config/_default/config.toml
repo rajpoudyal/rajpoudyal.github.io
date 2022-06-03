@@ -1,8 +1,8 @@
 baseURL = "/"
-title = "Hugo Bootstrap Skeleton"
+title = "Raj Poudyal"
 # theme = "hugo-theme-bootstrap" # install via git submodule
 theme = "github.com/razonyang/hugo-theme-bootstrap" # install via hugo module
-copyright = "Copyright © 2016-{year} Razon Yang. All Rights Reserved."
+copyright = "Copyright © 2022 Raj Poudyal. All Rights Reserved."
 
 # Multilingual mode
 defaultContentLanguage = "en"
