@@ -32,7 +32,9 @@ jobs:
           extended: true
 
       - name: Build
-        run: hugo --minify
+        run: |-
+          npm install
+          hugo --minify
         env:
           HUGO_ENV: production
 
