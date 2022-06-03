@@ -1,6 +1,6 @@
-name = "Razon Yang"
+name = "Raj Poudyal"
 # avatar = "images/profile.png" # Avatar image. Default to "images/profile.webp".
-bio = "Gopher, PHPer, Full Stack Engineer."
+bio = "CS Student | Junior Programmer."
 company = 'Company'
 # company = '<a href="https://example.com" target="_blank" rel="noopener noreferrer">Company</a>'
 location = "Earth"
