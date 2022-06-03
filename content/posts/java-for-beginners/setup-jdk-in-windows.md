@@ -45,13 +45,16 @@ This article explains method of installing of JDK in Windows. Also to verify JDK
 6. After some time download will be completed.
   
 ## Install JDK
-  1. Once the download is complete go to downloads at My PC where you find the JDK application,
 
-  ![](5.jpg)
-  2. Then, execute(open) the file to begin the installation of JDK,
+1. Once the download is complete go to downloads at My PC where you find the JDK application,
 
-  3. After you double click the JDK file, a pop up asking you where your source java file will be (You can choose to change but better to stick with original location). Click next to all criteria,
-  4. Then, after some time JDK will be install in your device, 
+![](/images/setup-jdk-in-windows/5.jpg)
+
+2. Then, execute(open) the file to begin the installation of JDK,
+
+3. After you double click the JDK file, a pop up asking you where your source java file will be (You can choose to change but better to stick with original location). Click next to all criteria,
+
+4. Then, after some time JDK will be install in your device, 
 
 
 
