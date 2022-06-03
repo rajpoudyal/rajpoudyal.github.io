@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://rajpoudyal.github.io/sitemap.xml
