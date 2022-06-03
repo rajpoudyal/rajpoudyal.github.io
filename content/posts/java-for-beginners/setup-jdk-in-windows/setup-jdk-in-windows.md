@@ -22,7 +22,7 @@ This article explains method of installing of JDK in Windows. Also to verify JDK
 
 <!--more-->
 
-## Background 
+## Background
 
 > The Java Development Kit (JDK) is a distribution of Java Technology by Oracle Corporation. It implements the Java Language Specification (JLS) and the Java Virtual Machine Specification (JVMS) and provides the Standard Edition (SE) of the Java Application Programming Interface (API). It provides software for working with Java applications. Examples of included software are the virtual machine, a compiler, performance monitoring tools, a debugger, and other utilities that Oracle considers useful for a Java programmer. - wikipedia.com
 
@@ -30,7 +30,7 @@ This article explains method of installing of JDK in Windows. Also to verify JDK
   1. Search JDK download at search engine,
   2. Open Java download of oracle website,
 
-   ![](setup-jdk-in-windows/1.jpg?width=100px)
+   ![](1.jpg?width=100px)
   3. Choose the correct OS according for specific JDK (Windows,Mac,Linux),
 
   ![](2.jpg)
