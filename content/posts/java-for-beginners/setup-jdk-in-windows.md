@@ -52,6 +52,7 @@ This article explains method of installing of JDK in Windows. Also to verify JDK
 
 2. Then, execute(open) the file to begin the installation of JDK,
 
+![](/images/setup-jdk-in-windows/5.jpg)
 3. After you double click the JDK file, a pop up asking you where your source java file will be (You can choose to change but better to stick with original location). Click next to all criteria,
 
 4. Then, after some time JDK will be install in your device, 
@@ -59,42 +60,83 @@ This article explains method of installing of JDK in Windows. Also to verify JDK
 
 
 ## Set environment variable
+
 1. Go to search menu and search advanced system settings, 
 
-![](8.jpg)
+![](/images/setup-jdk-in-windows/8.jpg)
 
 2. Select Advanced System Setting.
 Click on Environment Variables (at the bottom right corner),
 
-![](9.jpg)
+![](/images/setup-jdk-in-windows/9.jpg)
 
 3. There will be two environment variables, one is the User variable and another is a System variable.
 
 
 4. If path and classpath variables are already present in System Variable, click on it to edit. Otherwise, set a new variable.
-5. Set the path variable by adding the following directory path.
-  _______________________
-set path environment variable
-6. Set the classpath variable by adding the following classpath directory path.
-  _______________________-_
-set classpath environment variable.
+
+       User variable :
+
+* For New :
+
+  a. Select New,
+
+  ![](/images/setup-jdk-in-windows/10.jpg)
+
+  b. Add the variable name and variable value 
+      as following,
+  
+  ![](/images/setup-jdk-in-windows/11.jpg)
+
+  c. For variable value set location of jdk,
+  
+  ![](/images/setup-jdk-in-windows/19.jpg)
+
+* For Edit, 
+
+  Set only variable value.
+
+      System Variable : 
+
+* For New :
+
+    Select New,
+      add the variable name as Path and variable 
+       value as below,
+
+* For Edit :
+  
+    a. Select  path and click edit,
+
+    b.Edit environmental variable as following,
+
+    ![](/images/setup-jdk-in-windows/14.jpg)
+
+    c. Set the classpath variable by adding the following classpath directory path,
+
+    ![](/images/setup-jdk-in-windows/20.jpg)
+    
+
+  Then, Click on apply and ok on shystem properties.
 
 
-Click on OK.
-
-
-Now you have done with Java JDK setup. 
+      Now you have done with Java JDK setup. 
 
 
 
 ## Verify Installiation
-We can use javac -version to find out the version of the installed JDK. 
+
+We can use javac -version to find out the version of the installed JDK.
+
 1. We have to open command prompt,
+
 2. Then, type javac -version and hit enter,
+
 3. JDK version will be displayed.
 
-![](6.jpg)
- In the below example, the JDK version is 18.0.1
+  ![](/images/setup-jdk-in-windows/6.jpg)
+
+In the below example, the JDK version is 18.0.1
 
 
 
