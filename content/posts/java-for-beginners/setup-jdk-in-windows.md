@@ -31,15 +31,19 @@ This article explains method of installing of JDK in Windows. Also to verify JDK
 1. Search JDK download at search engine,
 
 2. Open Java download of oracle website,
+
 ![](/images/setup-jdk-in-windows/1.jpg)
 
 3. Choose the correct OS according for specific JDK (Windows,Mac,Linux),
+
 ![](/images/setup-jdk-in-windows/2.jpg)
 
 4. Scrool or search for compactiable installer for your platform,
+
 ![](/images/setup-jdk-in-windows/3.jpg)
 
 5. Click on related installer and accept terms and condition then click on download,
+
 ![](/images/setup-jdk-in-windows/4.jpg)
 
 6. After some time download will be completed.
