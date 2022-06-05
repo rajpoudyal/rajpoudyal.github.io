@@ -59,7 +59,7 @@ This article explains method of installing of JDK in Windows. Also to verify JDK
 
 3. After you double click the JDK file, a pop up asking you where your source java file will be (You can choose to change but better to stick with original location). Click next to all criteria,
 
-![](/images/setup-jdk-in-windows24.jpg)
+![](/images/setup-jdk-in-windows/24.jpg)
 
 4. Then, after some time JDK will be install in your device, 
 
