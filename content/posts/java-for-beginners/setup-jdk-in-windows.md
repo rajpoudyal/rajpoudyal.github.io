@@ -24,11 +24,13 @@ This article explains method of installing of JDK in Windows. Also to verify JDK
 
 ## Background
 
+
 > The Java Development Kit (JDK) is a distribution of Java Technology by Oracle Corporation. It implements the Java Language Specification (JLS) and the Java Virtual Machine Specification (JVMS) and provides the Standard Edition (SE) of the Java Application Programming Interface (API). It provides software for working with Java applications. Examples of included software are the virtual machine, a compiler, performance monitoring tools, a debugger, and other utilities that Oracle considers useful for a Java programmer. - [wikipedia.org](https://en.wikipedia.org/wiki/Java_Development_Kit)
 
 
 
 ## Download JDK 
+
 
 1. Search JDK download at search engine,
 
@@ -54,6 +56,7 @@ This article explains method of installing of JDK in Windows. Also to verify JDK
 
 ## Install JDK
 
+
 1. Once the download is complete go to downloads at My PC where you find the JDK application,
 
 ![](/images/setup-jdk-in-windows/5.jpg)
@@ -72,6 +75,7 @@ This article explains method of installing of JDK in Windows. Also to verify JDK
 
 
 ## Set environment variable
+
 
 1. Go to search menu and search advanced system settings, 
 
@@ -112,7 +116,7 @@ Click on Environment Variables (at the bottom right corner),
 * For Edit, 
 
   Set only variable value.
-  
+
 
       System Variable : 
 
@@ -145,6 +149,7 @@ Click on Environment Variables (at the bottom right corner),
 
 
 ## Verify Installiation
+
 
 We can use javac -version to find out the version of the installed JDK.
 
