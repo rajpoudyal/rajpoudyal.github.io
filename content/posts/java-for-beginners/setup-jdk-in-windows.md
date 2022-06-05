@@ -144,7 +144,7 @@ Click on Environment Variables (at the bottom right corner),
   Then, Click on apply and ok on system properties.
 
 
-      Now you have done with Java JDK setup. 
+      Now, you have done with Java JDK setup. 
 
 
 
