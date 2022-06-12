@@ -1,9 +1,9 @@
       +++
 draft = false
 author = "Raj Poudyal"
-title = "How to create hello world program in ellipse"
+title = "How to create hello world program in eclipse and run it"
 date = "2022-06-7"
-description = "A detailed blog post that shows how to create hello world program in Ellipse."
+description = "A detailed blog post that shows how to create hello world program in Eclipse."
 featured = false
 comment = true
 toc = true
@@ -18,7 +18,7 @@ images = [
 ]
 +++
 
-This article explains method to create hello world program in Ellipse. 
+This article explains method to create hello world program in Eclipse. Also to run it after creating the program.
 
 <!--more-->
 
@@ -90,7 +90,7 @@ Or
 ![](/images/setup-jdk-in-windows/s9.jpg)
 
 
-* Your code will be printed "Hello World" in ellipse console.
+* Your code will be printed "Hello World" in eclipse console.
 
 ![](/images/setup-jdk-in-windows/s10jpg)
 
