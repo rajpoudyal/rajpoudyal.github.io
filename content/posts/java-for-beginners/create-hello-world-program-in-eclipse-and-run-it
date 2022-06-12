@@ -1,39 +1,97 @@
-      
+      +++
+draft = false
+author = "Raj Poudyal"
+title = "Create hello world program in ellipse"
+date = "2022-06-7"
+description = "A detailed blog post that shows how to create hello world program in Ellipse."
+featured = false
+comment = true
+toc = true
+categories = [
+"Ellipse"
+]
+tags = [
+"Ellipse",
+"Hello World",
+]
+images = [
+]
++++
+
+This article explains method to create hello world program in Ellipse. 
+
+<!--more-->
+
+
 ## Creating java project
 
 
-Select Menu file to New to Java project (New java project Wiza4d Dialog pops up),
+* Select Menu file to New to Java project (New java project Wiza4d Dialog pops up),
 
-Enter "Program" as the project name and keep rest of the settings default,
+![](/images/setup-jdk-in-windows/s1.jpg)
 
-Click finish, ellipse IDE will generate the java project ("Program").
+
+* Enter "Program" as the project name and keep rest of the settings default,
+
+
+* Click finish, ellipse IDE will generate the java project ("Program").
+
+![](/images/setup-jdk-in-windows/s2.jpg)
+
 
 
 ## Creating package
 
 
-Here, right click on src and select context menu New to package,
+* Here, right click on src and select context menu New to package,
 
-Then, enter "code" at name field and keep rest crieteria as it is,
+![](/images/setup-jdk-in-windows/s3.jpg)
 
-Click finish, package(code) will be generated.
+
+* Then, enter "code" at name field and keep rest crieteria as it is,
+
+
+* Click finish, package(code) will be generated.
+
+
+![](/images/setup-jdk-in-windows/s4.jpg)
 
 
 ## Creating java class
 
 
-Now, right click on package(code) and select context menu New to class, 
+* Now, right click on package(code) and select context menu New to class, 
 
-Then, enter "First" at name field and  select checkbox for 'public static void main(String[] args),
+![](/images/setup-jdk-in-windows/s5.jpg)
 
-Click finish, java class(first) will be generated.
+
+* Then, enter "First" at name field and  select checkbox for 'public static void main(String[] args),
+
+
+* Click finish, java class(first) will be generated.
+
+![](/images/setup-jdk-in-windows/s6.jpg)
+
 
 
 ## Creating "Hello World" program
 
 
-Edit the generated "First" java class as per the following code below,
+* Edit the generated "First" java class as per the following code below,
 
-Then, run the code by right click on class to run as to java application (or by executing circular run option at top left),
+![](/images/setup-jdk-in-windows/s7.jpg)
 
-Your code will be printed "Hello World" in ellipse console.
+* Then, run the code by right click on class to run as to java application (or by executing circular run option at top left),
+
+![](/images/setup-jdk-in-windows/s8.jpg)
+
+Or
+
+![](/images/setup-jdk-in-windows/s9.jpg)
+
+
+* Your code will be printed "Hello World" in ellipse console.
+
+![](/images/setup-jdk-in-windows/s10jpg)
+
+
