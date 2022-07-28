@@ -92,6 +92,6 @@ Or
 
 * Your code will be printed "Hello World" in eclipse console.
 
-![](/images/setup-jdk-in-windows/s10jpg)
+![](/images/setup-jdk-in-windows/s10.jpg)
 
 
